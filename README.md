@@ -1,6 +1,6 @@
 # All Restaurants in Fairfield, California, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `409895` |
 | Location | Fairfield |
 | Category | Restaurants |
-| Full dataset size | 105 records |
-| Free sample size | 10 records (9.52%) |
-| Last export | 2026-04-21T20:31:46.331029+00:00 |
+| Full dataset size | 152 records |
+| Free sample size | 15 records (9.87%) |
+| Last export | 2026-04-28T22:12:46.919733+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-fairfield-california-us-sample-409895/releases/download/sample-latest/beamstation_409895_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
