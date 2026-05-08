@@ -1,12 +1,12 @@
 {
-  "export_job_id": "09bed54b-9aa2-4c49-b951-aabc1b2b9c64",
+  "export_job_id": "ae4ec656-aa94-4118-a836-a513b6203d5a",
   "id_short": 409895,
-  "published_at": "2026-04-29T07:37:03Z",
+  "published_at": "2026-05-08T07:05:36Z",
   "repo_name": "all-restaurants-in-fairfield-california-us-sample-409895",
   "sample_asset_name": "beamstation_409895_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/409895/beamstation_409895_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "eebe04a648c4b1b0d398768d3b5d6d57ee12a0d8c61d3327ff66c2b1b6a7b7bc",
-  "sample_size_bytes": 73771,
-  "total_records": 152
+  "sample_records": 16,
+  "sample_sha256": "93d68308d8cb213bd7317b2ec515518f532950d654d20fdf22240a333fbaad81",
+  "sample_size_bytes": 69642,
+  "total_records": 160
 }
